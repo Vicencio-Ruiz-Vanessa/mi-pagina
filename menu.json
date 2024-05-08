@@ -1,0 +1,243 @@
+ {
+    "items":[
+        {
+        "Category":"Bebidas",
+        "items":[
+            {
+            "name":"agua de fresa",
+            "descripcion":"Agua de fresa con hielos para refrescarse",
+            "price":"$20.00",
+            "imagen":"agus de fresa.jpg"
+            
+        },
+        {
+            "name":"cerveza",
+            "descripcion":"Vasos de cervezas bien frias",
+            "price":"$45.00",
+            "imagen":"cerveza.jpg"
+            
+        },
+        {
+            "name":"coca cola",
+            "descripcion":"Un vaso de coca cola bien frio con hielos",
+            "price":"$25.00",
+            "imagen":"coca cola.jpg"
+            
+        },
+        {
+            "name":"tequila",
+            "descripcion":"Un shot de tequila con limon",
+            "price":"$50.00",
+            "imagen":"Tequila.jpg"
+            
+        },
+        {
+            "name":"Jugos",
+            "descripcion":"Variedad de tipos de jugos",
+            "price":"$25.00",
+            "imagen":"jugos.jpg"
+            
+        },
+        {
+            "name":"Vino",
+            "descripcion":"Una copa de vino ",
+            "price":"$150.00",
+            "imagen":"vino.jpg"
+            
+        }
+        
+        
+        
+        ]
+    },
+    {
+        "Category":"Desayunos",
+        "items":[
+            {
+            "name":"wafles con fruta",
+            "descripcion":"wafles con un poco de fruta encima",
+            "price":"$45.00",
+            "imagen":"wafles 0.1jpg"
+            
+        },
+        {
+            "name":"yogurt con frutas",
+            "descripcion":"Untazon de yogurt de frutas y avena",
+            "price":"$35.00",
+            "imagen":"yogurt con fruta y avena 0.2jpg"
+            
+        },
+        {
+            "name":"frutas",
+            "descripcion":"un tazon de frutas naturales",
+            "price":"$50.00",
+            "imagen":"frutas 0.3jpg"
+            
+        },
+        {
+            "name":"chilaquiles",
+            "descripcion":"Es un platillo de chilaquiles con queso",
+            "price":"$50.00",
+            "imagen":"chilaquile 0.4jpg"
+            
+        },
+        {
+            "name":"avena",
+            "descripcion":"avena con trozos de frutas",
+            "price":"$30.00",
+            "imagen":"avena con fruta 0.5jpg"
+            
+        },
+        {
+            "name":"sanwith",
+            "descripcion":"sanwith con un poco de fruta",
+            "price":"$30.00",
+            "imagen":"sanwith con frutas 0.6jpg"
+            
+        }
+        ]
+    } ,
+    {
+        "Category":"Aperitivos",
+        "items":[
+            {
+            "name":"mini sanwith",
+            "descripcion":"mini sanwith de diferentes figuras",
+            "price":"$20.00",
+            "imagen":"mini sanwith 0.7jpg"
+            
+        },
+        {
+            "name":" brochetas",
+            "descripcion":"Brochetas saludables",
+            "price":"$30.00",
+            "imagen":"brochetas 0.8jpg"
+            
+        },
+        {
+            "name":"Molletes",
+            "descripcion":"molletes con queso",
+            "price":"$50.00",
+            "imagen":"molletes 0.9jpg"
+            
+        },
+        {
+            "name":"Nachos",
+            "descripcion":"nachos con dos tipos de salsas",
+            "price":"$48.00",
+            "imagen":"nachos con salsas 10jpg"
+            
+        },
+        {
+            "name":"Quesadillas",
+            "descripcion":"quesadillas con carne",
+            "price":"$30.00",
+            "imagen":"quesadillas 11jpg"
+            
+        },
+        {
+            "name":"salchichas ",
+            "descripcion":"salchichas empanizadas",
+            "price":"$25.00",
+            "imagen":"salchichas 12jpg"
+            
+        }
+        ]
+    },
+    {
+        "Category":"Platillos fuertes",
+        "items":[
+            {
+            "name":"Pollo en crema",
+            "descripcion":"Pollo en crema con tomate cherry",
+            "price":"$80.00",
+            "imagen":"pollo en crema 13jpg"
+            
+        },
+        {
+            "name":"pasta",
+            "descripcion":"pasta con pedazos de pollo",
+            "price":"$55.00",
+            "imagen":"pasta 14jpg"
+            
+        },
+        {
+            "name":" brochetas",
+            "descripcion":"brochetas de mellijones",
+            "price":"$95.00",
+            "imagen":"brochetas 15jpg"
+            
+        },
+        {
+            "name":"Filete empanizado",
+            "descripcion":"filete empanizado con papas",
+            "price":"$100.00",
+            "imagen":"filete empanizado 16jpg"
+            
+        },
+        {
+            "name":"salmon en salsa de ajo miel",
+            "descripcion":"salmon en salsa de ajo miel",
+            "price":"$120.00",
+            "imagen":"salmon en salsa de ajo miel 17pg"
+            
+        },
+        {
+            "name":"salmon al horno",
+            "descripcion":"salmon al horno con verduras",
+            "price":"$100.00",
+            "imagen":"salmon al horno 18jpg"
+            
+        }
+        ]
+    },
+    {
+        "Category":"Postres",
+        "items":[
+            {
+            "name":"Pastelitos",
+            "descripcion":"Pastelitos de chocolate blanco con fresas",
+            "price":"$65.00",
+            "imagen":"pastelitos de chocolate blanco 19jpg"
+            
+        },
+        {
+            "name":" helado de chocolate",
+            "descripcion":"helado de chocolate con springuls",
+            "price":"$45.00",
+            "imagen":"Helado de chocolate.20jpg"
+            
+        },
+        {
+            "name":" chocoflan",
+            "descripcion":"chocoflan con una cereza",
+            "price":"$75.00",
+            "imagen":"chocoflan.21jpg"
+            
+        },
+        {
+            "name":"frape",
+            "descripcion":"frape de cafe con chocolate",
+            "price":"$85.00",
+            "imagen":"frape de cafe .22jpg"
+            
+        },
+        {
+            "name":"fresas con crema",
+            "descripcion":"fresas con crema ",
+            "price":"$50.00",
+            "imagen":"fresas con crema.23jpg"
+            
+        },
+        {
+            "name":"cheesecake con frambuesas",
+            "descripcion":"cheesecake con frambuesas",
+            "price":"$95.00",
+            "imagen":"cheesecake.24jpg"
+            
+        }
+        ]
+    }
+    ]
+  
+ }
