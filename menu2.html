@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <!--Aqui voy a poner los diferentes fonts que utilizare-->
+
+    <link href="https://fonts.cdnfonts.com/css/browny-groove" rel="stylesheet">
+
+    <title>Restaurante cetis menu</title>
+</head>
+<body>
+    <div style="margin: 24px;">
+        <nav class="nav navbar-ligth" style="background-color: rgb(42, 25, 75);">
+          <div class="container">
+            <a class="navbar-brand" href="index.html" style="font-family: Arial, Helvetica, sans-serif;color: rgb(0, 0, 0);">Inicio</a>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="nav navbar-nav">
+              <li class="nav-item dropdown">
+    
+                <a class="nav-link dropdown-toggle" href="#" 
+                id="navbarDropdownMenuLink"
+                data-toggle="dropdown" aria-haspopup="true"
+                aria-expanded="false" style="font-family: 'TeXGyrePagella', sans-serif; ">Unidad 1</a></a>
+                <div class="dropdown-menu"
+                aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-ites" href="perfil.html" style="font-family: 'TeXGyrePagella', sans-serif; color: black;">Perfil</a><br>
+                <a class="dropdown-ites" href="Calculadora.html" style="font-family: 'TeXGyrePagella', sans-serif; color: black;">Calculadora</a><br>
+                <a class="dropdown-ites" href="Menu.html" style="font-family: 'TeXGyrePagella', sans-serif; color: black;">Tienda</a>
+                
+    
+    
+                </div>
+              </li>
+              <li>
+                <a class="nav-link dropdown-toggle" href="#" 
+                id="navbarDropdownMenuLink2" 
+                data-toggle="dropdown" aria-haspopup="true" 
+                aria-expanded="false" style= "font-family: 'TeXGyrePagella', sans-serif;">Unidad 2</a>
+                <div class="dropdown-menu" 
+                aria-labelledby="navbarDropdownMenuLink2">
+                <a class="dropdown-ites" href="primavera.html">primavera</a><br>
+                <a class="dropdown-ites" href="Tiendapedido1.html">Tienda pedido</a><br>
+                 
+                </div>
+            </li>
+                <li>
+    
+                  <a class="nav-link dropdown-toggle" href="#" 
+                  id="navbarDropdownMenuLink3" 
+                  data-toggle="dropdown" aria-haspopup="true" 
+                  aria-expanded="false" style="font-family: 'TeXGyrePagella', sans-serif;" >Unidad 3</a>
+                  <div class="dropdown-menu" 
+                  aria-labelledby="navbarDropdownMenuLink3">
+                  <a class="dropdown-ites" href="basededatos.html">Base de Datos</a><br>
+                  <a class="dropdown-ites" href="peliculas.html">Peliculas</a>
+                  </div>
+                      </li>
+
+    <!--este div es los botones de la pagina index.html-->
+    <div style="margin: 24px;">
+    </div>
+    <style>
+        #menu-container{
+         max-width: 800px;
+         margin: 20px auto;
+         padding: 20px;
+         background-color: rgb(123, 85, 160);
+         box-shadow: o 4px 8px rgb(44, 11, 78);
+         border-radius: 8px;
+        }
+        h2{
+            color: rgb(12, 8, 8);
+            font-size: 24px;
+            margin-top: 20px;
+            padding-bottom: 10px;
+            border-bottom: 10px;
+            border-bottom: 2px solid rgb(233, 42, 20);
+        }
+        table{
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+            text-align: left;
+            margin: 0 auto;
+
+        }
+        th, td{
+            padding: 8px;
+            border: 1px solid #ddd;
+
+        }
+        th{
+            background-color: aquamarine;
+        }
+        tr:nth-child(odd) td{
+        background-color: rgb(69, 69, 161);
+        }
+        tr:nth-child(even) td{
+            background-color: rgb(69, 69, 161);
+        }
+        tr:nth-child(2n+1)tr:nth-child(1){background-color: rgb(13, 191, 204);}
+        tr:nth-child(2n+1)tr:nth-child(2){background-color: rgb(4, 104, 255);}
+        tr:nth-child(2n+1)tr:nth-child(3){background-color: rgb(12, 47, 99);}
+        tr:nth-child(2n+1)tr:nth-child(1){background-color: rgb(134, 4, 255);}
+        tr:nth-child(2n+1)tr:nth-child(2){background-color: rgb(190, 10, 235);}
+        tr:nth-child(2n+1)tr:nth-child(3){background-color: rgb(255, 4, 130);}
+     img{
+            display: block;
+            max-width: 100px;
+            margin: 0 auto;
+        }
+    </style>
+
+    <h1>Menu</h1>
+    <div id="menu-container"></div>
+    <script src="Menu4,js"></script>
+    <h2> Total:$<span id="Total">0</span></h2>
+</head>
+<body>
+
+    
+</body>
+</html>
